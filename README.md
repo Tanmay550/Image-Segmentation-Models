@@ -39,7 +39,6 @@ The models are trained and evaluated on the following datasets:
 - Training is implemented in **Tensorflow**.  
 - Standard preprocessing (resizing, normalization, augmentation) applied.  
 - Models evaluated using:
-  - **Mean Intersection over Union (mIoU)**  
   - **Pixel Accuracy**  
 
 ---
